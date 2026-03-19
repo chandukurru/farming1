@@ -14,4 +14,4 @@ social:
 markdown: kramdown
 
 # Theme settings
-theme: "minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
