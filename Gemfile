@@ -1,0 +1,1 @@
+source 'https://rubygems.org'\n\ngem 'github-pages', group: :jekyll_plugins\ngem 'minimal-mistakes'
