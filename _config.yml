@@ -1,0 +1,17 @@
+# Minimal Mistakes theme configuration
+
+# Site settings
+name: Your Site Name
+url: "https://yourdomain.com"
+description: "A short description of your site"
+
+# Author settings
+social:
+  twitter: your_twitter_handle
+  github: your_github_handle
+
+# Build settings
+markdown: kramdown
+
+# Theme settings
+theme: "minimal-mistakes"
